@@ -1,3 +1,11 @@
+//A peak element in an array is the one that is not smaller than its neighbours.
+/*Input:
+    N = 3
+    arr[] = {1,2,3}
+  Output: 1
+  Explanation: index 2 is 3. It is the peak element as it is greater than its neighbour 2. */
+
+
 import java.util.*;
 class PeakElement
 {
