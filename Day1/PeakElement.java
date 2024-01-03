@@ -7,6 +7,7 @@
 
 
 import java.util.*;
+
 class PeakElement
 {
     public static void main(String[] args)
@@ -25,7 +26,7 @@ class PeakElement
 
     if(n == 0)
     {
-        System.out.println("NO ELEMENTS IN THE ARRAY ");
+        System.out.println("NO ELEMENTS IN THE ARRAY !!! ");
         flag = 1;
     }
     else if(n == 1)
